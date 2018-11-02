@@ -1,0 +1,72 @@
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49860	66.119.205.7	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49864	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49867	server-52-84-51-157.sea32.r.cloudfront.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49872	sea15s08-in-f10.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49885	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49886	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49902	den03s10-in-f46.1e100.net	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49903	den03s10-in-f46.1e100.net	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49944	52.169.83.3	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49951	ec2-52-206-240-19.compute-1.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49964	s3-1-w.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49965	s3-1-w.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-s9rs6e1.localdomain	49973	sv-mus-dptm5q2.ksd.edu	ms-do	TIME_WAIT										
+firefox.exe	6136	TCP	DESKTOP-S9RS6E1	49856	localhost	49857	ESTABLISHED			8	8						
+firefox.exe	6136	TCP	DESKTOP-S9RS6E1	49857	localhost	49856	ESTABLISHED	8	8								
+firefox.exe	2864	TCP	DESKTOP-S9RS6E1	49858	localhost	49859	ESTABLISHED										
+firefox.exe	2864	TCP	DESKTOP-S9RS6E1	49859	localhost	49858	ESTABLISHED										
+firefox.exe	5288	TCP	DESKTOP-S9RS6E1	49861	localhost	49862	ESTABLISHED										
+firefox.exe	5288	TCP	DESKTOP-S9RS6E1	49862	localhost	49861	ESTABLISHED										
+firefox.exe	3208	TCP	DESKTOP-S9RS6E1	49870	localhost	49871	ESTABLISHED										
+firefox.exe	3208	TCP	DESKTOP-S9RS6E1	49871	localhost	49870	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49901	den03s10-in-f46.1e100.net	https	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49954	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49957	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49960	lb-192-30-253-125-iad.github.com	https	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49966	72.21.91.29	http	ESTABLISHED										
+firefox.exe	6136	TCP	desktop-s9rs6e1.localdomain	49967	72.21.91.29	http	ESTABLISHED										
+lsass.exe	676	TCP	DESKTOP-S9RS6E1	49671	DESKTOP-S9RS6E1	0	LISTENING										
+lsass.exe	676	TCPV6	desktop-s9rs6e1	49671	desktop-s9rs6e1	0	LISTENING										
+SearchUI.exe	4308	TCP	desktop-s9rs6e1.localdomain	49810	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4308	TCP	desktop-s9rs6e1.localdomain	49811	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4308	TCP	desktop-s9rs6e1.localdomain	49833	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4308	TCP	desktop-s9rs6e1.localdomain	49834	bingforbusiness.com	https	CLOSE_WAIT										
+services.exe	636	TCP	DESKTOP-S9RS6E1	49668	DESKTOP-S9RS6E1	0	LISTENING										
+services.exe	636	TCPV6	desktop-s9rs6e1	49668	desktop-s9rs6e1	0	LISTENING										
+spoolsv.exe	2244	TCP	DESKTOP-S9RS6E1	49667	DESKTOP-S9RS6E1	0	LISTENING										
+spoolsv.exe	2244	TCPV6	desktop-s9rs6e1	49667	desktop-s9rs6e1	0	LISTENING										
+svchost.exe	908	TCP	DESKTOP-S9RS6E1	epmap	DESKTOP-S9RS6E1	0	LISTENING										
+svchost.exe	3368	TCP	desktop-s9rs6e1.localdomain	5040	DESKTOP-S9RS6E1	0	LISTENING										
+svchost.exe	1256	TCP	DESKTOP-S9RS6E1	49665	DESKTOP-S9RS6E1	0	LISTENING										
+svchost.exe	1036	TCP	DESKTOP-S9RS6E1	49666	DESKTOP-S9RS6E1	0	LISTENING										
+svchost.exe	2700	TCP	desktop-s9rs6e1.localdomain	49669	52.165.175.144	https	ESTABLISHED										
+svchost.exe	3960	TCP	desktop-s9rs6e1.localdomain	49696	desktop-arnjpp0.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3960	TCP	desktop-s9rs6e1.localdomain	49736	hi-bilc-bl4qlc2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3960	TCP	desktop-s9rs6e1.localdomain	49738	ad-it-j8vqlc2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3960	TCP	desktop-s9rs6e1.localdomain	49970	52.169.123.48	https	ESTABLISHED										
+svchost.exe	3960	TCP	DESKTOP-S9RS6E1	ms-do	DESKTOP-S9RS6E1	0	LISTENING										
+svchost.exe	4576	UDP	DESKTOP-S9RS6E1	ssdp	*	*											
+svchost.exe	4576	UDP	desktop-s9rs6e1.localdomain	ssdp	*	*											
+svchost.exe	3368	UDP	DESKTOP-S9RS6E1	5050	*	*											
+svchost.exe	1964	UDP	DESKTOP-S9RS6E1	5353	*	*											
+svchost.exe	1964	UDP	DESKTOP-S9RS6E1	llmnr	*	*											
+svchost.exe	4576	UDP	desktop-s9rs6e1.localdomain	51200	*	*											
+svchost.exe	4576	UDP	DESKTOP-S9RS6E1	51201	*	*											
+svchost.exe	2920	UDP	DESKTOP-S9RS6E1	51828	*	*											
+svchost.exe	908	TCPV6	desktop-s9rs6e1	epmap	desktop-s9rs6e1	0	LISTENING										
+svchost.exe	3960	TCPV6	desktop-s9rs6e1	ms-do	desktop-s9rs6e1	0	LISTENING										
+svchost.exe	1256	TCPV6	desktop-s9rs6e1	49665	desktop-s9rs6e1	0	LISTENING										
+svchost.exe	1036	TCPV6	desktop-s9rs6e1	49666	desktop-s9rs6e1	0	LISTENING										
+svchost.exe	4576	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	4576	UDPV6	[fe80:0:0:0:6474:af40:ba91:e684]	1900	*	*											
+svchost.exe	1964	UDPV6	desktop-s9rs6e1	5353	*	*											
+svchost.exe	1964	UDPV6	desktop-s9rs6e1	5355	*	*											
+svchost.exe	4576	UDPV6	[fe80:0:0:0:6474:af40:ba91:e684]	51198	*	*											
+svchost.exe	4576	UDPV6	[0:0:0:0:0:0:0:1]	51199	*	*											
+System	4	TCP	desktop-s9rs6e1.localdomain	netbios-ssn	DESKTOP-S9RS6E1	0	LISTENING										
+System	4	TCP	DESKTOP-S9RS6E1	microsoft-ds	DESKTOP-S9RS6E1	0	LISTENING										
+System	4	UDP	desktop-s9rs6e1.localdomain	netbios-ns	*	*		3	204								
+System	4	UDP	desktop-s9rs6e1.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-s9rs6e1	microsoft-ds	desktop-s9rs6e1	0	LISTENING										
+wininit.exe	524	TCP	DESKTOP-S9RS6E1	49664	DESKTOP-S9RS6E1	0	LISTENING										
+wininit.exe	524	TCPV6	desktop-s9rs6e1	49664	desktop-s9rs6e1	0	LISTENING										

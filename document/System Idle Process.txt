@@ -1,0 +1,70 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+System Idle Process	93.22	52 K	8 K	0		
+System	0.49	156 K	60 K	4		
+ Interrupts	0.45	0 K	0 K	n/a	Hardware Interrupts and DPCs	
+ smss.exe		520 K	900 K	284	Windows Session Manager	Microsoft Corporation
+ Memory Compression		252 K	38,308 K	1676		
+csrss.exe	< 0.01	1,592 K	4,116 K	388	Client Server Runtime Process	Microsoft Corporation
+wininit.exe		1,372 K	5,724 K	460	Windows Start-Up Application	Microsoft Corporation
+ services.exe		3,064 K	6,536 K	596	Services and Controller app	Microsoft Corporation
+  svchost.exe		8,248 K	22,388 K	716	Host Process for Windows Services	Microsoft Corporation
+   smartscreen.exe		23,076 K	33,700 K	2304	Windows Defender SmartScreen	Microsoft Corporation
+   ShellExperienceHost.exe	Suspended	30,684 K	61,080 K	4852	Windows Shell Experience Host	Microsoft Corporation
+   SearchUI.exe	Suspended	52,256 K	62,736 K	5004	Search and Cortana application	Microsoft Corporation
+   RuntimeBroker.exe		4,724 K	25,016 K	5040	Runtime Broker	Microsoft Corporation
+   RuntimeBroker.exe		5,252 K	16,696 K	2276	Runtime Broker	Microsoft Corporation
+   RuntimeBroker.exe		6,536 K	27,720 K	4152	Runtime Broker	Microsoft Corporation
+   dllhost.exe	0.02	1,956 K	10,416 K	5012	COM Surrogate	Microsoft Corporation
+   ApplicationFrameHost.exe		10,760 K	27,096 K	6280	Application Frame Host	Microsoft Corporation
+   MicrosoftEdge.exe	< 0.01	26,596 K	78,452 K	2328	Microsoft Edge	Microsoft Corporation
+   browser_broker.exe		6,320 K	26,696 K	6272	Browser_Broker	Microsoft Corporation
+   RuntimeBroker.exe		13,380 K	29,088 K	3824	Runtime Broker	Microsoft Corporation
+   MicrosoftEdgeCP.exe		8,532 K	25,712 K	5196	Microsoft Edge Content Process	Microsoft Corporation
+   MicrosoftEdgeCP.exe	0.05	50,440 K	62,916 K	5172	Microsoft Edge Content Process	Microsoft Corporation
+   RuntimeBroker.exe		1,612 K	11,560 K	4644	Runtime Broker	Microsoft Corporation
+   MicrosoftEdgeCP.exe		5,664 K	24,116 K	6848	Microsoft Edge Content Process	Microsoft Corporation
+   MicrosoftEdgeCP.exe		5,664 K	24,384 K	1660	Microsoft Edge Content Process	Microsoft Corporation
+   MicrosoftEdgeCP.exe	0.01	78,796 K	155,260 K	6400	Microsoft Edge Content Process	Microsoft Corporation
+   SystemSettingsBroker.exe		2,424 K	13,944 K	3560	System Settings Broker	Microsoft Corporation
+   MicrosoftEdgeCP.exe		5,656 K	25,716 K	4324	Microsoft Edge Content Process	Microsoft Corporation
+   WmiPrvSE.exe		2,248 K	8,544 K	6308	WMI Provider Host	Microsoft Corporation
+  svchost.exe		7,408 K	12,928 K	840	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	< 0.01	34,496 K	58,536 K	972	Host Process for Windows Services	Microsoft Corporation
+   sihost.exe		6,596 K	26,872 K	3932	Shell Infrastructure Host	Microsoft Corporation
+   taskhostw.exe		6,380 K	16,292 K	3984	Host Process for Windows Tasks	Microsoft Corporation
+   taskhostw.exe		4,124 K	17,128 K	6448	Host Process for Windows Tasks	Microsoft Corporation
+  svchost.exe	0.01	17,452 K	24,632 K	1008	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		7,404 K	22,576 K	256	Host Process for Windows Services	Microsoft Corporation
+   ctfmon.exe	0.20	3,124 K	12,812 K	476	CTF Loader	Microsoft Corporation
+  svchost.exe		2,468 K	11,556 K	1064	Host Process for Windows Services	Microsoft Corporation
+   audiodg.exe		6,608 K	12,304 K	3652	Windows Audio Device Graph Isolation 	Microsoft Corporation
+  svchost.exe		6,348 K	16,788 K	1120	Host Process for Windows Services	Microsoft Corporation
+  SearchIndexer.exe		22,600 K	26,468 K	1200	Microsoft Windows Search Indexer	Microsoft Corporation
+   SearchProtocolHost.exe	0.03	2,420 K	13,048 K	3476	Microsoft Windows Search Protocol Host	Microsoft Corporation
+   SearchFilterHost.exe		1,292 K	6,168 K	1152	Microsoft Windows Search Filter Host	Microsoft Corporation
+  svchost.exe	< 0.01	11,376 K	25,500 K	1248	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		14,304 K	23,984 K	1316	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	< 0.01	16,492 K	23,936 K	1364	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,412 K	5,600 K	1736	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,192 K	8,168 K	1748	Host Process for Windows Services	Microsoft Corporation
+  spoolsv.exe		7,944 K	16,540 K	1812	Spooler SubSystem App	Microsoft Corporation
+  svchost.exe		8,920 K	25,080 K	1964	Host Process for Windows Services	Microsoft Corporation
+  SecurityHealthService.exe		3,912 K	14,952 K	1992	Windows Security Health Service	Microsoft Corporation
+  MsMpEng.exe	1.80	123,064 K	88,592 K	1136	Antimalware Service Executable	Microsoft Corporation
+  svchost.exe		14,108 K	46,908 K	3940	Host Process for Windows Services	Microsoft Corporation
+  NisSrv.exe		5,160 K	1,544 K	3524	Microsoft Network Realtime Inspection Service	Microsoft Corporation
+  svchost.exe		1,988 K	7,092 K	4368	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,556 K	6,216 K	4416	Host Process for Windows Services	Microsoft Corporation
+   Windows.WARP.JITService.exe		1,128 K	4,968 K	3668		
+  svchost.exe		2,396 K	12,176 K	1072	Host Process for Windows Services	Microsoft Corporation
+ lsass.exe		6,412 K	13,488 K	612	Local Security Authority Process	Microsoft Corporation
+ fontdrvhost.exe		1,376 K	3,556 K	740	Usermode Font Driver Host	Microsoft Corporation
+csrss.exe	0.18	1,736 K	4,480 K	468	Client Server Runtime Process	Microsoft Corporation
+winlogon.exe		2,360 K	10,692 K	524	Windows Logon Application	Microsoft Corporation
+ fontdrvhost.exe		2,136 K	6,432 K	748	Usermode Font Driver Host	Microsoft Corporation
+ dwm.exe	0.69	76,044 K	113,236 K	924	Desktop Window Manager	Microsoft Corporation
+explorer.exe	0.24	42,320 K	137,596 K	2404	Windows Explorer	Microsoft Corporation
+ MSASCuiL.exe		1,828 K	9,000 K	6332	Windows Defender notification icon	Microsoft Corporation
+ procexp64.exe	2.53	22,884 K	60,332 K	992	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com
+OneDrive.exe	0.06	28,048 K	57,216 K	6344	Microsoft OneDrive	Microsoft Corporation
+
