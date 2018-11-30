@@ -1,0 +1,107 @@
+[System Process]	0	TCP	jfj-computer.localdomain	49754	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49773	52.238.56.180	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49774	40.90.218.0	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49775	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49788	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49790	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49792	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49795	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49796	13.107.4.50	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49797	sea30s02-in-f3.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49798	sea30s02-in-f14.1e100.net	http	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49800	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49801	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49808	sea30s02-in-f3.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	jfj-computer.localdomain	49803	40.78.46.61	https	TIME_WAIT										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49713	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49714	any-in-2678.1e100.net	https	CLOSE_WAIT										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49716	sea30s01-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49717	sea30s02-in-f13.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49718	sea30s02-in-f13.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49721	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49722	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49723	sea30s02-in-f14.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49728	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49732	sea30s02-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49733	sea30s02-in-f14.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49735	a23-60-72-31.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49737	23.185.0.3	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49738	sea30s02-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49739	sea30s02-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49740	wj-in-f156.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49741	wj-in-f94.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49742	151.101.54.110	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49745	23.185.0.3	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49747	server-13-33-144-56.sea4.r.cloudfront.net	https	CLOSE_WAIT										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49748	bam-9.nr-data.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49750	any-in-2678.1e100.net	https	CLOSE_WAIT										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49756	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49757	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49759	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49760	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49761	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49762	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49763	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49764	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49765	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49766	sea30s02-in-f14.1e100.net	https	ESTABLISHED	3	1,401	2	973						
+chrome.exe	7004	TCP	jfj-computer.localdomain	49779	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49782	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49783	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49784	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49787	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	1	35	1	31						
+chrome.exe	7004	TCP	jfj-computer.localdomain	49794	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49802	sea30s02-in-f14.1e100.net	https	ESTABLISHED										
+chrome.exe	7004	TCP	jfj-computer.localdomain	49804	lb-192-30-255-112-sea.github.com	https	CLOSE_WAIT			1	31						
+chrome.exe	7004	TCP	jfj-computer.localdomain	49805	lb-192-30-255-112-sea.github.com	https	CLOSE_WAIT			1	31						
+chrome.exe	7004	TCP	jfj-computer.localdomain	49806	ec2-52-86-224-28.compute-1.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	7004	TCP	jfj-computer.localdomain	49807	lb-192-30-255-117-sea.github.com	https	CLOSE_WAIT			1	31						
+chrome.exe	7004	UDP	JFJ-computer	5353	*	*											
+chrome.exe	7004	UDP	JFJ-computer	5353	*	*											
+chrome.exe	7004	UDP	JFJ-computer	5353	*	*											
+chrome.exe	7004	UDPV6	jfj-computer	5353	*	*											
+chrome.exe	7004	UDPV6	jfj-computer	5353	*	*											
+lsass.exe	668	TCP	JFJ-computer	49674	JFJ-computer	0	LISTENING										
+lsass.exe	668	TCPV6	jfj-computer	49674	jfj-computer	0	LISTENING										
+OneDrive.exe	8044	TCP	jfj-computer.localdomain	49810	65.55.163.80	https	ESTABLISHED										
+SearchUI.exe	5144	TCP	jfj-computer.localdomain	49703	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	5144	TCP	jfj-computer.localdomain	49707	204.79.197.220	https	CLOSE_WAIT										
+services.exe	628	TCP	JFJ-computer	49668	JFJ-computer	0	LISTENING										
+services.exe	628	TCPV6	jfj-computer	49668	jfj-computer	0	LISTENING										
+spoolsv.exe	2240	TCP	JFJ-computer	49667	JFJ-computer	0	LISTENING										
+spoolsv.exe	2240	TCPV6	jfj-computer	49667	jfj-computer	0	LISTENING										
+svchost.exe	944	TCP	JFJ-computer	epmap	JFJ-computer	0	LISTENING										
+svchost.exe	3640	TCP	jfj-computer.localdomain	5040	JFJ-computer	0	LISTENING										
+svchost.exe	1068	TCP	JFJ-computer	49665	JFJ-computer	0	LISTENING										
+svchost.exe	1320	TCP	JFJ-computer	49666	JFJ-computer	0	LISTENING										
+svchost.exe	2656	TCP	jfj-computer.localdomain	49671	52.173.26.181	https	ESTABLISHED	1	73	1	125						
+svchost.exe	2656	TCP	jfj-computer.localdomain	49729	52.165.170.112	https	ESTABLISHED										
+svchost.exe	2500	TCP	jfj-computer.localdomain	49809	64.4.54.254	https	ESTABLISHED										
+svchost.exe	2500	TCP	jfj-computer.localdomain	49811	64.4.54.254	https	ESTABLISHED										
+svchost.exe	5152	TCP	JFJ-computer	ms-do	JFJ-computer	0	LISTENING										
+svchost.exe	2548	UDP	JFJ-computer	ssdp	*	*											
+svchost.exe	2548	UDP	jfj-computer.localdomain	ssdp	*	*											
+svchost.exe	3640	UDP	JFJ-computer	5050	*	*											
+svchost.exe	1192	UDP	JFJ-computer	5353	*	*											
+svchost.exe	1192	UDP	JFJ-computer	llmnr	*	*											
+svchost.exe	2784	UDP	JFJ-computer	54586	*	*											
+svchost.exe	2548	UDP	jfj-computer.localdomain	56733	*	*											
+svchost.exe	2548	UDP	JFJ-computer	56734	*	*											
+svchost.exe	944	TCPV6	jfj-computer	epmap	jfj-computer	0	LISTENING										
+svchost.exe	5152	TCPV6	jfj-computer	ms-do	jfj-computer	0	LISTENING										
+svchost.exe	1068	TCPV6	jfj-computer	49665	jfj-computer	0	LISTENING										
+svchost.exe	1320	TCPV6	jfj-computer	49666	jfj-computer	0	LISTENING										
+svchost.exe	2548	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	2548	UDPV6	[fe80:0:0:0:6474:af40:ba91:e684]	1900	*	*											
+svchost.exe	1192	UDPV6	jfj-computer	5353	*	*											
+svchost.exe	1192	UDPV6	jfj-computer	5355	*	*											
+svchost.exe	2548	UDPV6	[fe80:0:0:0:6474:af40:ba91:e684]	56731	*	*											
+svchost.exe	2548	UDPV6	[0:0:0:0:0:0:0:1]	56732	*	*											
+svchost.exe	2500	TCP	jfj-computer.localdomain	49815	64.4.54.254	https	ESTABLISHED	2	2,106	1	295						
+System	4	TCP	jfj-computer.localdomain	netbios-ssn	JFJ-computer	0	LISTENING										
+System	4	TCP	JFJ-computer	microsoft-ds	JFJ-computer	0	LISTENING										
+System	4	UDP	jfj-computer.localdomain	netbios-ns	*	*		9	504	3	150						
+System	4	UDP	jfj-computer.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	jfj-computer	microsoft-ds	jfj-computer	0	LISTENING										
+wininit.exe	512	TCP	JFJ-computer	49664	JFJ-computer	0	LISTENING										
+wininit.exe	512	TCPV6	jfj-computer	49664	jfj-computer	0	LISTENING										
